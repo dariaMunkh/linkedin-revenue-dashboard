@@ -28,7 +28,7 @@ structure the Streamlit layout, as some of the techniques were beyond my current
 level. I reviewed and understood the final output, but want to be transparent that 
 this was a collaborative effort with AI tooling.
 
-I believe using AI as a learning tool — not just a shortcut — is a skill in itself, 
+I believe using AI as a learning tool is a skill in itself, 
 and one that aligns with how modern revenue teams operate.
 
 ## Why I built this
